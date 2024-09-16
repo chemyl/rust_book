@@ -1,0 +1,2 @@
+Install Rust
+ - cargo run
